@@ -50,7 +50,7 @@ export function Navbar() {
               />
             </div>
             <div className="flex flex-col">
-              <span className="font-mono text-sm font-bold tracking-wider text-text-primary group-hover:text-accent-highlight transition-colors">
+              <span className="font-mono text-base sm:text-lg font-bold tracking-wider text-text-primary group-hover:text-accent-highlight transition-colors">
                 SPARSH GOYAL
               </span>
             </div>
