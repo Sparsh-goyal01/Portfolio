@@ -21,9 +21,9 @@ const jetbrainsMono = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Sparsh Goyal | Aspiring Software Backend Developer",
+  title: "Sparsh Goyal | Software Backend Developer",
   description:
-    "Sparsh Goyal - Aspiring SDE focused on backend development, data analytics, scalable systems, and problem solving.",
+    "Sparsh Goyal - Software Developer focused on backend development, data analytics, scalable systems, and problem solving.",
   keywords: [
     "Sparsh Goyal",
     "Backend Developer",
@@ -41,16 +41,16 @@ export const metadata: Metadata = {
     type: "website",
     locale: "en_US",
     url: "https://sparshgoyal.dev",
-    title: "Sparsh Goyal | Aspiring Software Backend Developer",
+    title: "Sparsh Goyal | Software Backend Developer",
     description:
       "Backend-focused software developer building modern web applications, data analytics solutions, scalable systems, APIs, and problem-solving projects.",
     siteName: "Sparsh Goyal Portfolio",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Sparsh Goyal | Aspiring Software Backend Developer",
+    title: "Sparsh Goyal | Software Backend Developer",
     description:
-      "Sparsh Goyal - Aspiring SDE focused on backend development and scalable systems.",
+      "Sparsh Goyal - Software Developer focused on backend development and scalable systems.",
     creator: "@Sparshgoyal01",
   },
   robots: {

@@ -24,7 +24,7 @@ export const aboutCardsData: AboutCard[] = [
     categoryNumber: "02",
     title: "Career Summary",
     description:
-      "Aspiring backend-focused SDE with strong DSA, API, and database skills.",
+      " Backend-focused SDE with strong DSA, API, and database skills.",
     iconName: "briefcase",
   },
   {

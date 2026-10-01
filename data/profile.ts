@@ -9,12 +9,12 @@ export const profileData: ProfileIdentity = {
     "Backend-focused software developer building modern web applications, data analytics solutions, scalable systems, APIs, and problem-solving projects.",
   pageTitle: "Sparsh Goyal",
   metaDescription:
-    "Sparsh Goyal - Aspiring SDE focused on backend development and scalable systems.",
+    "Sparsh Goyal - Software Developer focused on backend development and scalable systems.",
   primaryFocus: "Backend Development",
   currentActivity: "DSA solver",
   profileLabel: "Developer - MERN Stack - Problem Solving",
   headline: "Hello, I am Sparsh Goyal.",
-  lead: "Aspiring Software Backend developer focused on building modern web applications, data analytics, and problem solving.",
+  lead: "Software Backend developer focused on building modern web applications, data analytics, and problem solving.",
   highlightTags: [
     "Full Stack",
     "Data Analytics",
