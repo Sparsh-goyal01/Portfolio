@@ -7,9 +7,9 @@ export const skillsData: SkillCategory[] = [
     skills: ["JavaScript", "C++", "SQL"],
   },
   {
-    title: "Frameworks",
+    title: "Frameworks & Libraries",
     iconName: "layers",
-    skills: ["Node.js", "Express"],
+    skills: ["Node.js", "Express", "React"],
   },
   {
     title: "Data & Analytics",
@@ -19,7 +19,7 @@ export const skillsData: SkillCategory[] = [
   {
     title: "Databases",
     iconName: "database",
-    skills: ["MySQL", "PostgreSQL", "Firebase"],
+    skills: ["MySQL", "PostgreSQL", "Firebase", "MongoDB"],
   },
   {
     title: "Tools & Version Control",
