@@ -1,6 +1,7 @@
 import type { Metadata, Viewport } from "next";
 import { Inter, Space_Grotesk, JetBrains_Mono } from "next/font/google";
 import "./globals.css";
+import { MusicPlayer } from "@/components/ui/MusicPlayer";
 
 const inter = Inter({
   subsets: ["latin"],
@@ -77,6 +78,7 @@ export default function RootLayout({
     >
       <body className="bg-background-primary text-text-primary min-h-screen antialiased selection:bg-accent-primary selection:text-black">
         {children}
+        <MusicPlayer />
       </body>
     </html>
   );
